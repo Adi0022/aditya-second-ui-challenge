@@ -82,3 +82,9 @@ height: 40px;
 border-radius: 50px;
 margin-right: 10px;
 }
+.user-info >p:first-child{
+font-weight: 700;
+}
+.user-info >p:last-child{
+font-weight: 100;
+}
